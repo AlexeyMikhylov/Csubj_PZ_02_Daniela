@@ -1,0 +1,7 @@
+Student's average grade is >4.0: 
+
+Surname: eilish 
+Group: 11 
+
+Surname: adam 
+Group: 12 
